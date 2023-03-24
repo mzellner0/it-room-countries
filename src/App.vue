@@ -31,7 +31,7 @@ a {
   font-weight: bold;
 }
 img {
-  max-width: 300px;
+  max-width: 200px;
   margin-left: 40px;
 }
 .search {
@@ -46,11 +46,6 @@ img {
   }
   a:first-of-type {
     margin-left: 0;
-  }
-}
-@media (max-width: 400px) {
-  img {
-    max-width: 200px;
   }
 }
 </style>

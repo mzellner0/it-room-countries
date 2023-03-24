@@ -31,8 +31,8 @@
   }
   input {
     padding: 10px;
-    width: calc(70% - 40px);
-    margin-left: 15%;
+    width: calc(60% - 40px);
+    margin-left: 20%;
     border: 1px solid grey;
     border-right: none;
     outline: none;
@@ -47,5 +47,11 @@
   img {
     width: 10px;
     height: 10px;
+  }
+  @media (max-width: 500px) {
+    input {
+      width: calc(80% - 40px);
+      margin-left: 10%;
+    }
   }
 </style>

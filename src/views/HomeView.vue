@@ -19,6 +19,7 @@
     margin-bottom: 40px;
   }
   h2 {
+    font-size: 30px;
     margin: 20px 10px;
     margin-top: 40px;
     text-align: center;
