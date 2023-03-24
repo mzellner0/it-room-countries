@@ -36,6 +36,7 @@ export default {
     border: none;
     padding: 10px 15px;
     margin-top: 40px;
+    cursor: pointer;
   }
   h4 {
     color: black;

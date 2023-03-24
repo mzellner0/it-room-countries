@@ -41,6 +41,7 @@
     border: none;
     padding: 10px 15px;
     margin: 20px;
+    cursor: pointer;
   }
   @media (max-width: 800px) {
     .countries {
