@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+### Processus de recherche
+
+J'ai d'abord regardé le fonctionnement de l'API, trouvé les éléments à afficher, puis j'ai mis en place le fichier /countriesService.js qui me permet de faire les appels à l'API. J'ai stocké l'url de l'API dans un fichier .env.
+
+Ensuite j'ai créé le store qui me permet d'appeler ce service et de stocker les éléments dans des variables.
+
+Puis j'ai mis en place la maquette et j'ai lié le store aux éléments html.
